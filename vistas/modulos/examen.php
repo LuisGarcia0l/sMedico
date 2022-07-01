@@ -40,7 +40,7 @@ if($_SESSION["perfil"] == "Especial" || $_SESSION["perfil"] == "Vendedor"){
 			<div class="box-body col-6">
 
 			<!--=====================================
-			ENTRADA DEL CLIENTE
+			ENTRADA DEL CLIENTE hola 
 			======================================--> 
 
 
